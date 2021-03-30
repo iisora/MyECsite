@@ -1,3 +1,3 @@
-# MyECsite
+# Vue.js + DRFでECサイトを作成
 
-Vue.js + DRFでECサイトを作成
+
